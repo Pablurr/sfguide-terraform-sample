@@ -1,0 +1,4 @@
+snowflake.env
+*.terraform*
+*.tfstate
+*.tfstate.*
